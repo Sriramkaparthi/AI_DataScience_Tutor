@@ -18,6 +18,7 @@ An AI-powered Data Science tutor built using **Streamlit, Google Gemini API, Lan
 - **PIL, NumPy** (Image Processing)
 
 📝 **Usage**
+
 **Ask a Question**: Enter your data science question in the text box and click "Submit".
 
 **Upload an Image**: Upload an image with a question, and OCR will extract the text.
