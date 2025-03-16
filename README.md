@@ -17,8 +17,12 @@ An AI-powered Data Science tutor built using **Streamlit, Google Gemini API, Lan
 - **EasyOCR** (Image-based question extraction)  
 - **PIL, NumPy** (Image Processing)
 
-📝 Usage
-Ask a Question: Enter your data science question in the text box and click "Submit".
-Upload an Image: Upload an image with a question, and OCR will extract the text.
-View Responses: The AI tutor provides structured responses.
-Check Conversation History: View previous messages in the sidebar.
+📝 **Usage**
+**Ask a Question**: Enter your data science question in the text box and click "Submit".
+
+**Upload an Image**: Upload an image with a question, and OCR will extract the text.
+
+**View Responses**: The AI tutor provides structured responses.
+
+**Check Conversation History**: View previous messages in the sidebar.
+
